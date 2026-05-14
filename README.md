@@ -1,5 +1,6 @@
-# Attribute-Selection-Enabled-Iron-Ore-Concentrate-Quality-Prediction-
 
+TITLE : Interpretable Artificial Intelligence with Attribute Selection Enabled Iron Ore Concentrate Quality Prediction for Froth Flotation Mining Process
+JOURNAL NAME :  The visual computer
 
 ## 📁 Dataset
 
